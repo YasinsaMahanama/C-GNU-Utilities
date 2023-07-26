@@ -31,7 +31,7 @@
 ## User Interface
 
 
-### ❖ The user interface is quite minimal and lacks proper formatting. Consider adding more descriptive and userfriendly messages for better interaction with the user.
+### ❖ The user interface is quite minimal and lacks proper formatting. Consider adding more descriptive and user-friendly messages for better interaction with the user.
 
 ### ❖ Provide a clear indication of when the user should input the text and the "exit" command.
 
